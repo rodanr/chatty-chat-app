@@ -6,8 +6,8 @@ This project uses monorepo structure using Turborepo
 
 ### Run
 To test this app follow these below steps:
-1. run `yarn;cd apps/chatty-api; yarn;cd ../chatty-front;yarn; cd ../../;`
-2. then run `yarn dev` to start
+`yarn` to install dependencies
+`yarn dev` to start
 
 ### App Screenshot
 ![](./screenshot.png)
